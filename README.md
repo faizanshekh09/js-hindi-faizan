@@ -1,2 +1,2 @@
-# js-hindi-faizan
+# js-faizan
 A code ropo for javascript
